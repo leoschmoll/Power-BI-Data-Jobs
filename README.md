@@ -22,8 +22,7 @@ Explore the dashbords below. Each has its own dedicated README files with more d
 
 [➡️** View Full Project 1 Details (README)**](/Project%201/README.md)
 
-## 📈 Data Jobs Dashboard (Project 1 - Single-Page Focus)
-
+## 📈 Data Jobs Dashboard (Project 2 - Single-Page Foc
 ![Data Jobs DB](/Images/P2%20dashboard.png)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
@@ -38,7 +37,7 @@ Explore the dashbords below. Each has its own dedicated README files with more d
 * 🗂️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️** View Full Project 1 Details (README)**](/Project%202/README.md)
+[➡️** View Full Project 2 Details (README)**](/Project%202/README.md)
 
 
 ## About This Portfolio
